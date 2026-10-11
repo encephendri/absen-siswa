@@ -1,0 +1,38 @@
+# Query: logoprofile
+# ContextLines: 1
+
+7 results - 7 files
+
+app\include\side_bar_a.php:
+  4                  <div class="image">
+  5:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
+
+app\include\side_bar_i.php:
+  4                  <div class="image">
+  5:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
+
+app\include\side_bar_k.php:
+  4                  <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
+
+app\include\side_bar_l.php:
+  4                  <div class="image">
+  5:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
+
+app\include\side_bar_m.php:
+  4                  <div class="image">
+  5:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
+
+app\include\side_bar_s.php:
+  5                  <div class="image">
+  6:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  7                  </div>
+
+app\include\side_bar.php:
+  4                  <div class="image">
+  5:                     <img src="../images/logogl.jpg" width="48" height="48" alt="User" />
+  6                  </div>
